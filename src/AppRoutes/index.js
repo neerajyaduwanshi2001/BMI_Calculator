@@ -1,6 +1,5 @@
 import React from 'react'
-import { BrowserRouter } from "react-router-dom";
-import { Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter , Routes, Route } from "react-router-dom";
 import Calculator from '../Pages/Calculator';
 import UserResults from '../Pages/UsersResult';
 
